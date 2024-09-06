@@ -1,7 +1,3 @@
-Here’s a comprehensive README for your project that uses a Convolutional Neural Network (CNN) to classify fingerprint images:
-
----
-
 # Fingerprint Classification Model
 
 **Overview**
