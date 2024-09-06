@@ -82,7 +82,7 @@ fingerprints/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fingerprint-classification-model.git
+   git clone https://github.com/maveenbalaji/fingerprint-classification-model.git
    ```
 
 2. Navigate to the project directory:
